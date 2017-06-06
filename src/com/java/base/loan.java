@@ -3,7 +3,7 @@ import org.openqa.selenium.By;
 import  org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 /**
- * Created by Administrator on 2017/5/22.
+ * Created by zhangxingchen on 2017/5/22.
  */
 public class loan {
     public static void main(String[] args){
