@@ -5,6 +5,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 /**
  * Created by zhangxingchen on 2017/5/22.
  */
+
 public class loan {
     public static void main(String[] args){
         System.setProperty("webdriver.chrome.driver","C:\\Program Files (x86)\\Google\\Chrome\\Application\\chromedriver.exe");

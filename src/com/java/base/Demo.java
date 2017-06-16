@@ -3,6 +3,11 @@ package com.java.base;
 public class Demo {
     static int i;
     int j;
+
+    /**
+     * @user: 
+     * @param args
+     */
     public static void main(String[] args) {
         Demo obj1 = new Demo();
         obj1.i = 10;
