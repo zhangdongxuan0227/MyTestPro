@@ -1,26 +1,26 @@
 public class add {
     public static void main(String[] args) {
         
-        // 变量保存成绩
+        // 鍙橀噺淇濆瓨鎴愮哗
         int a = 5; 
         
-        // 变量保存加分次数
+        // 鍙橀噺淇濆瓨鍔犲垎娆℃暟
         int b = ++a;
 
 		//score += count;
-        //打印输出加分前成绩 
+        //鎵撳嵃杈撳嚭鍔犲垎鍓嶆垚缁?
         System.out.println("a:"+ a);  
 		System.out.println("b:"+ b);  
         
-        // 只要成绩小于60，就循环执行加分操作，并统计加分次数
+        // 鍙鎴愮哗灏忎簬60锛屽氨寰幆鎵ц鍔犲垎鎿嶄綔锛屽苟缁熻鍔犲垎娆℃暟
 /* 		 while(score < 60){
 
             score +=1;
 
             count++;
         }
-		System.out.println("加分后分数："+ score);  
-		System.out.println("加分次数："+ count);  	
+		System.out.println("鍔犲垎鍚庡垎鏁帮細"+ score);  
+		System.out.println("鍔犲垎娆℃暟锛?+ count);  	
 			 */
 	}
 			

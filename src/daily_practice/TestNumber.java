@@ -17,7 +17,7 @@ public class TestNumber {
 			d1 = number % 10;
 			if (d5 != 0) { // 判断number是5位数的条件
 				System.out.println(number + "是5位数");
-				if (d5 == d1 && d4 == d2) { // 判断number是回文数的条件
+				if (d5 == d1 && d4 == d2) { // 判断number是回文数的条件 
 					System.out.println(number + "是回文数");
 				} else {
 					System.out.println(number + "不是回文数");
